@@ -1,6 +1,6 @@
 spring:
   profiles:
-    active: dev
+    active: dev  # 当前选择使用下面的dev配置
         
 ---
 spring:
